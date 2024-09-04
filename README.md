@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+prompt-saver
+# Prompt Saver
 
-Based on "ABC" at https://www.abc.com/
+Based on "Claude Dev Keeps On Getting Better. The Best AI Coding Assistant?" at https://youtu.be/WsMzvJ8Yo4U?t=76
 
 ## 100 - Introduction
 
